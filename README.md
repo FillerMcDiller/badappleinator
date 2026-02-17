@@ -4,11 +4,11 @@ Transform **any image into a Bad Apple video** by applying the iconic animation 
 
 ## Features
 
-- 🎬 **Convert images to MP4 videos** with Bad Apple animation
-- 🎨 **Apply Bad Apple silhouettes** from the original video to any image
-- ⚙️ **Customizable parameters**: blur strength and threshold
-- 🖼️ **Single frame transformation** mode for testing
-- 📊 **Progress tracking** during video generation
+   **Convert images to MP4 videos** with Bad Apple animation
+   **Apply Bad Apple silhouettes** from the original video to any image
+   **Customizable parameters**: blur strength and threshold
+   **Single frame transformation** mode for testing
+   **Progress tracking** during video generation
 
 ## How It Works
 
@@ -189,3 +189,4 @@ badappleinator/
 ## License
 
 Free to use and modify!
+
